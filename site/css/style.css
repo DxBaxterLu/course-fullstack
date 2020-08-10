@@ -92,7 +92,22 @@ p{
 @media(min-width: 768px) and (max-width:991px){
 
     #box {
-        width: 475px;
+        width: 725px;
+    }
+
+    #title1{
+        margin: 0px 0px 0px 545px;
+        width: 175px;
+    }
+    
+    #title2{
+        margin: 0px 0px 0px 545px;
+        width: 175px;
+    }
+    
+    #title3{
+        margin: 0px 0px 0px 545px;
+        width: 175px;
     }
 }
 
@@ -101,6 +116,21 @@ p{
 @media(max-width:767px){
 
     #box {
-        width: 475px;
+        width: 720px;
+    }
+
+    #title1{
+        margin: 0px 0px 0px 550px;
+        width: 165px;
+    }
+    
+    #title2{
+        margin: 0px 0px 0px 550px;
+        width: 165px;
+    }
+    
+    #title3{
+        margin: 0px 0px 0px 550px;
+        width: 165px;
     }
 }
